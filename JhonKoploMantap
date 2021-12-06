@@ -28,6 +28,8 @@
 <server name="RADIO RAJAWALI INDONESIA" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="144.76.73.12" port="38600" region="Jakarta Raya" url="https://radioputra.romzi.online/"/> token="null"/> 
 <server name="TRANSNET G21" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="92.222.152.11" port="10020" region="Jakarta Raya" url="https://radioputra.romzi.online/"/> token="null"/> 
 <server name="RKU PAKSI" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="mumble-de.cleanvoice.com" port="38699" region="Jakarta Raya" url="https://radioputra.romzi.online/"/> token="null"/> 
+<server name="RKU PAKSI_jaladara" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="mb.puma-network.net" port="54766" region="Jakarta Raya" url="https://radioputra.romzi.online/"/> token="null"/> 
 </servers>
+
 
 

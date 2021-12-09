@@ -16,6 +16,8 @@
 <server name="RADIO87" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38762" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="HALLO TEMAN" ca="0" continent_code="EU" country="France" country_code="FR" ip="202.157.177.180" port="64747" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="DRN" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble.nasional.online" port="64738" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="RKI" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="53733" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="TRASNET G21" ca="0" continent_code="EU" country="France" country_code="FR" ip="92.222.152.11" port="10020" region="Ike-de-France" url="https://virtualkitchen.org/" />
 </servers>
 
 

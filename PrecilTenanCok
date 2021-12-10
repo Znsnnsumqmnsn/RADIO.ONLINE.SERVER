@@ -1,7 +1,7 @@
 
 <servers> 
 <server name="STARNET 01" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54873" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="STARNET 02" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="54878" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STARNET 02" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54878" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="STARNET 03" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54879" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="STARNET 04" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54880" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="STARNET 05" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54884" region="Ike-de-France" url="https://virtualkitchen.org/" />

@@ -1,17 +1,16 @@
 
 <servers> 
-<server name="🔐🔐PRIVASI🔐🔐" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54696" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="🏅⭐MBAH KLENONG⭐🏅" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38622" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🔵✨🔺CHANNEL 01🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54846" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🔵✨🔺CHANNEL 02🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54847" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🔵✨🔺CHANNEL 03🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54848" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🔵✨🔺CHANNEL 04🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54849" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🔵✨🔺((LOSDOL)) 05🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54850" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🔵✨🔺CHANNEL 06🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54851" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🔴✨🔺CHANNEL 07🔺✨🔴" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38736" region="Ile-de-France" url="https://virtualkitchen.org/" />
-<server name="🔴✨🔺CHANNEL 08🔺✨🔴" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-ru.cleanvoice.ru" port="20809" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🔴✨🔺((KUNTET)) 09🔺✨🔴" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-ru.cleanvoice.ru" port="20829" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🔴✨🔺CHANNEL 10🔺✨🔴" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-us2.cleanvoice.ru" port="56867" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="⭐ RADIO•ONLINE⭐" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54846" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="🔵✨🔺CHANNEL 01🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54847" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="🔵✨🔺CHANNEL 02🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54848" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="🔵✨🔺CHANNEL 03🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54849" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="🔵✨🔺CHANNEL 04🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54851" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="🔵✨🔺((LOSDOL))05🔺✨🔵" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54850" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="🔴✨🔺CHANNEL 06🔺✨🔴" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38736" region="Ile-de-France" url="https://virtualkitchen.org/" />
+<server name="🔴✨🔺CHANNEL 07🔺✨🔴" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-ru.cleanvoice.ru" port="20809" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="🔴✨🔺((KUNTET))08🔺✨🔴" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-ru.cleanvoice.ru" port="20829" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="🔴✨🔺CHANNEL 9🔺✨🔴" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-us2.cleanvoice.ru" port="56867" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="STARNET" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38803" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="RADIO87" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38762" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="HALLO TEMAN" ca="0" continent_code="EU" country="France" country_code="FR" ip="202.157.177.180" port="64747" region="Ike-de-France" url="https://virtualkitchen.org/" />

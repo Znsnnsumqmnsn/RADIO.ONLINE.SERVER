@@ -1,18 +1,18 @@
 
 <servers> 
-<server name="⭐PENDOPO STAR.net⭐" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54873" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🎌✨STAR.net 01✨🎌" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54878" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🎌✨STAR.net 02✨🎌" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54879" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🎌✨STAR.net 03✨🎌" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54880" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🎌✨STAR.net 04✨🎌" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54884" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🎌✨STAR.net 05✨🎌" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54885" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🚩✨STAR.net 06✨🚩" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38626" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🚩✨STAR.net 07✨🚩" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38629" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🚩✨STAR.net 08✨🚩" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38638" region="Ile-de-France" url="https://virtualkitchen.org/" />
-<server name="🚩✨STAR.net 09✨🚩" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38634" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🚩✨STAR.net 10✨🚩" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38640" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🚩✨STAR.net 11✨🚩" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38803" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="🚩✨STAR.net 12✨🚩" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38641" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="PENDOPO STAR.net" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54873" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 01" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54878" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 02" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54879" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 03" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54880" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 04" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54884" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 05" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54885" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 06" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38626" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 07" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38629" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 08" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38638" region="Ile-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 09" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38634" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 10" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38640" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 11" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38803" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="STAR.net 12" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38641" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="HALLO TEMAN" ca="0" continent_code="EU" country="France" country_code="FR" ip="202.157.177.180" port="64747" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="TrsansNetG21" ca="0" continent_code="EU" country="France" country_code="FR" ip="92.222.152.11" port="10020" region="Ike-de-France" url="https://virtualkitchen.org/" />
 </servers>

@@ -2,7 +2,7 @@
 <servers> 
 <server name="NEW GNR" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38622" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="RADIO ONLINE" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-ru.cleanvoice.ru" port="20809" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="R M B" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54849" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="R M B" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="56529" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="PUPUNG RKL" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-us2.cleanvoice.ru" port="56762" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="STARNET" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38803" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="RADIO87" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38762" region="Ike-de-France" url="https://virtualkitchen.org/" />

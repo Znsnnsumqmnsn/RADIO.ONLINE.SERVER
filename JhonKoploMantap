@@ -17,7 +17,7 @@
 <server name="RIRIS" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="57091" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="😍RDS😍" ca="0" continent_code="EU" country="France" country_code="FR" ip="95.216.18.242" port="19469" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="RJM" ca="0" continent_code="EU" country="France" country_code="FR" ip="95.216.18.242" port="19409" region="Ike-de-France" url="https://virtualkitchen.org/"/>
-<server name="GEDANG GORENG" ca="0" continent_code="EU" country="France" country_code="FR" ip="95.216.18.242" port="19382" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="GEDANG.GORENG" ca="0" continent_code="EU" country="France" country_code="FR" ip="95.216.18.242" port="19382" region="Ike-de-France" url="https://virtualkitchen.org/" />
 </servers>
 
 

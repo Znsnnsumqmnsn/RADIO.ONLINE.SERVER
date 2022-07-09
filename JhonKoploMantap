@@ -1,1 +1,20 @@
 
+
+<servers> 
+<server name="NEW GNR" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38622" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="R D S" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-ru.cleanvoice.ru" port="19469" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="R J M" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-ru.cleanvoice.ru" port="19382" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="RADIO87" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-de.cleanvoice.ru" port="38762" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="NEW HALLOTEMAN" ca="0" continent_code="EU" country="France" country_code="FR" ip="103.157.27.132" port="12321" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="DRN" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble.nasional.online" port="64738" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="RKI" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="71717" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="TRASNET G21" ca="0" continent_code="EU" country="France" country_code="FR" ip="92.222.152.11" port="10002" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="GALAXY EXPERS" ca="0" continent_code="EU" country="France" country_code="FR" ip="103.157.26.201" port="12345" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="NEW-NGEBRIK FM90" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="55207" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="RAJWALI.net" ca="0" continent_code="EU" country="France" country_code="FR" ip="192.95.21.40" port="22745" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="PAKSI" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54766" region="Ike-de-France" url="https://virtualkitchen.org/" />
+</servers>
+
+
+
+

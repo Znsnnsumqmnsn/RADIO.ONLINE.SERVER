@@ -11,7 +11,7 @@
 <server name="TRASNET G21" ca="0" continent_code="EU" country="France" country_code="FR" ip="164.132.3.62" port="57921" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="GALAXY EXPERS" ca="0" continent_code="EU" country="France" country_code="FR" ip="103.157.26.201" port="12345" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="NEW-NGEBRIK FM90" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="55207" region="Ike-de-France" url="https://virtualkitchen.org/" />
-<server name="RAJWALI.net" ca="0" continent_code="EU" country="France" country_code="FR" ip="192.95.21.40" port="22745" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="RAJWALI.net" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble-ru.cleanvoice.com" port="19348" region="Ike-de-France" url="https://virtualkitchen.org/" />
 <server name="PAKSI😁" ca="0" continent_code="EU" country="France" country_code="FR" ip="mb.puma-network.net" port="54766" region="Ike-de-France" url="https://virtualkitchen.org/" />
 </servers>
 

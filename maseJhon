@@ -1,4 +1,4 @@
 
 <servers> 
-<server name="R J M" ca="0" continent_code="EU" country="France" country_code="FR" ip="47.254.243.95" port="8118" region="Ike-de-France" url="https://virtualkitchen.org/" />
+<server name="RJM.1" ca="0" continent_code="EU" country="France" country_code="FR" ip="47.254.243.95"port="8118" region="Ike-de-France" url="https://virtualkitchen.org/" />
 </servers>
